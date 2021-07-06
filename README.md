@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python, Java, PHP
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenlvtang)](https://github.com/chenlvtang/github-readme-stats)
+[![chenlvtang's github stats](https://github-readme-stats.vercel.app/api?username=chenlvtang&theme=onedark)](https://github.com/chenlvtang/github-readme-stats)
