@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @chenlvtang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, 米娜桑，I’m @chenlvtang
+- 👀 I’m interested in CTF AND Cyber Security 
+- 🌱 I’m currently learning Python, Java, PHP
 
-<!---
-chenlvtang/chenlvtang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenlvtang)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenlvtang)](https://github.com/chenlvtang/github-readme-stats)
