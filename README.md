@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/chenlvtang/picbed/img/taytay.jpg" width="100%" height="650"/>
+<img src="https://cdn.jsdelivr.net/gh/chenlvtang/picbed/img/taytay.jpg" width="100%" height="600"/>
 
 - 👋 Hi, 米娜桑，I’m @chenlvtang.
 - 👀 I’m interested in CTF 🏴 AND Cyber Security 💻. 
