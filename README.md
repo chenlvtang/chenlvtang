@@ -1,6 +1,5 @@
-<img src="https://cdn.jsdelivr.net/gh/chenlvtang/picbed/img/taytay.jpg" width="200" height="150" style="border-radius: 25% 10%;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/chenlvtang/picbed/img/taytay.jpg" width="200" height="150" style="border-radius: 25% 10%;" align="left"/>**ABOUT ME：**
 
-**ABOUT ME：**
 🐥 Hi, 米娜桑，I’m [@**chenlvtang**](http://chenlvtang.top).
 
 🏁 I’m interested in CTF 🏴 && Cyber Security 💻. 
