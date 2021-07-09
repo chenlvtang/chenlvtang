@@ -1,11 +1,15 @@
-<img src="https://cdn.jsdelivr.net/gh/chenlvtang/picbed/img/taytay.jpg" width="100%" height="600"/>
+<img src="https://cdn.jsdelivr.net/gh/chenlvtang/picbed/img/taytay.jpg" width="200" height="150" style="border-radius: 25% 10%;" align="left"/>
 
----
-- 🐥 Hi, 米娜桑，I’m @**chenlvtang**.
-- 🏁 I’m interested in CTF 🏴 AND Cyber Security 💻. 
+- 🐥 Hi, 米娜桑，I’m [@**chenlvtang**](http://chenlvtang.top).
+
+- 🏁 I’m interested in CTF 🏴 && Cyber Security 💻. 
+
 - 🌱 I’m currently learning Python, Java, PHP.
+
+<br>
+
 ---
 
-[![chenlvtang's github stats](https://github-readme-stats.vercel.app/api?username=chenlvtang&theme=onedark)](https://github.com/chenlvtang/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=chenlvtang&theme=onedark" align="left"/>
 
-![chenlvtang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=chenlvtang&show_icons=true&count_private=true&theme=onedark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chenlvtang&show_icons=true&count_private=true&theme=onedark" height="195"/>
