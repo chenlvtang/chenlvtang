@@ -9,6 +9,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=chenlvtang&theme=onedark" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chenlvtang&theme=onedark" align="left" width="45%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chenlvtang&show_icons=true&count_private=true&theme=onedark" height="195" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chenlvtang&show_icons=true&count_private=true&theme=onedark"  width="45%"/>
