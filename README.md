@@ -4,9 +4,9 @@
 
 🐥 Hi, 米娜桑，I’m [@**chenlvtang**](http://chenlvtang.top).
     
-🏁 I’m interested in CTF 🏴 && Cyber Security 💻. 
+🏁 I’m interested in DevSecOps🔄 && CTF 🏴 && Cyber Security 💻. 
     
-🌱 I’m currently learning Python, Java, PHP.
+🌱 I’m currently learning Python, Java.
 <hr/>
 
 <p>
