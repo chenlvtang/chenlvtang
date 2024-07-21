@@ -19,6 +19,7 @@ aHR0cHM6Ly9qb2luLnNreXBlLmNvbS9pbnZpdGUva2hrdUl0VDNRQmdh
 <img src="https://profile-counter.glitch.me/chenlvtang/count.svg" alt="visitcount" width="120"/>
 </p>
 <hr/>
+<img width="400" height="140" src="https://card.yuy1n.io/card/76561198980843384/ocean-dark,en,badge,badges,games">
 
 ### 衣食父母
 
